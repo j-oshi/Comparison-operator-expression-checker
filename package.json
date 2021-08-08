@@ -1,0 +1,16 @@
+{
+  "name": "script-library",
+  "version": "1.0.0",
+  "description": "Libary of custom scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "author": "J Osh",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0",
+    "jest": "^27.0.6"
+  }
+}
